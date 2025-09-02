@@ -1,0 +1,5 @@
+{
+  "name": "AI Power Tools",
+  "description": "A suite of powerful AI tools to summarize text, generate images, and chat with your documents, all powered by Google Gemini.",
+  "requestFramePermissions": []
+}
